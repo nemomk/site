@@ -1,0 +1,325 @@
+body {
+  background-color: #e8c39a;
+  background-image: url(https://im0-tub-ru.yandex.net/i?id=cfb893773f7b79f54e23af755d9e1c46-l&n=13)   ;
+background-size: 120% ;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+#a {
+  color: #750627;
+  background-color: white;
+  width: 75%;
+  height: 1700px;
+
+  text-align: center;
+  border-radius: 50px;
+  margin-right: auto;
+  float: right;
+  font-size: 25px;
+
+  font-weight: bold;
+  padding-top: 20px;
+}
+#t
+{
+  text-align: left;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+p{
+
+   font-size: 35px;
+  text-align: center;
+}
+#b
+{
+  color: rgb(126, 0, 0);
+  background-color: #f5d3c4;
+  width: 25%;
+  height: auto;
+  text-align: center;
+  border-radius: 50px;
+  margin-left: auto;
+  float: left;
+  font-size: 40px;
+}
+div
+{
+  width: 85%;
+  height: 1100px;
+  margin: auto;
+}
+
+#d {
+  width: auto;
+  height: auto;
+  background-color: darkred;
+  color: #e8aa0c;
+   margin-top: auto;
+   margin-left: auto;
+  opacity: 0.9;
+   transition: all 0.5s ease;
+   padding-top: 10px;
+   }
+
+  a
+  {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+  }
+
+/*#d:hover {
+  box-shadow:  inset 0 0 0 10px #e9a974;
+}
+<a href="knopka.html">
+   Данный сайт поможет тебе в самостоятельном изучении Испанского языка онлайн без репетиторов совершенно бесплатно
+ </a> */
+#m1
+{
+  background-color: grey;
+  width: 200px;
+  height: 100px;
+}
+
+#block1
+{
+  width: 90%;
+  height: auto;
+  background-color: #ff4f4f ;
+ line-height: 1;
+ border-radius: 10px;
+ font-style: oblique;
+ color: white;
+}
+#block2
+{
+  width: 90%;
+  height: auto;
+  background-color: purple;
+  color: white;
+   font-style: oblique;
+   border-radius: 10px;
+}
+#block3
+{
+  width: 90%;
+  height: auto;
+  background-color: #05b4ff ;
+   border-radius: 10px;
+    font-style: oblique;
+   color: white;
+}
+#block4
+{
+  width: 90%;
+  height: auto;
+  background-color: #04d619 ;
+   border-radius: 10px;
+    font-style: oblique;
+   color: white;
+}
+#vn1
+{
+  width: auto;
+ font-style: normal;
+  height: auto;
+  border-radius: 30px;
+  background-color: #f29b9b;
+  line-height: 1;
+  padding-bottom: 5px; 
+}
+  #vn2
+  {
+    width:auto;
+    height: auto;
+ font-style: normal;
+    border-radius: auto;
+    background-color: #c278ad;
+      border-radius: 30px;
+      padding-bottom: 5px; 
+    line-height: 1;}
+    #vn3
+    {
+      width:  auto;
+     font-style: normal;
+      height: auto;
+      border-radius: 10px;
+      background-color: #87d7fa;
+        border-radius: 30px;
+        padding-bottom: 5px; 
+      line-height: 1;}
+      p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+   }
+
+   #block1:hover
+   {
+    transform: scale(1.05);
+   }
+   #block2:hover
+   {
+transform: scale(1.05);
+   }
+   #block3:hover
+   {
+transform: scale(1.05);
+   }
+   #block4:hover
+   {
+transform: scale(1.05);
+   }
+   #facts1
+   {
+   color: #000000;
+ margin-top: 10%;
+     width: 80%;
+     height: 110px;
+     margin-left: 10%;
+margin-right: 5%;
+padding-top: 8%;
+border-radius: 10px;
+transition-duration: 1s;
+  color: black;
+background-image: url(https://photoshop-kopona.com/uploads/posts/2018-02/1518943502_metallic_texture-8.jpg) ;
+   }
+#facts2
+{
+  margin-bottom: 10%;
+  float: left;
+  width: 80%;
+  height: 110px;
+margin-right: 10px;
+margin-left:  10%;
+margin-top: 10%;
+padding-top: 8%;
+border-radius: 10px;
+transition-duration: 1s;
+  color: black;
+  background-image: url(https://photoshop-kopona.com/uploads/posts/2018-02/1518943502_metallic_texture-8.jpg);
+}
+#box
+{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10%;
+    height: 80%;
+  color: black;
+}
+#facts1:hover {
+  box-shadow:  inset 0 0 0 12px white ;
+
+}
+#facts2:hover {
+  box-shadow:  inset 0 0 0 12px white;
+}
+.mov {
+   animation-duration: 2.5s;
+
+
+}
+.bred {
+   animation-duration: 1.5s;
+   animation-delay: 0.5s;
+   animation-fill-mode: backwards ;
+
+
+}
+.bro {
+   animation-duration: 1.5s;
+
+
+}
+#glim
+{
+  width: 90%;
+  height: auto;
+  text-align: left;
+  padding-bottom: 5%;
+}
+#glim1
+{
+  width: auto;
+  height: 500px;
+  text-align: left;
+}
+#Z
+{
+  color: #750627;
+  background-color: #e1cef5;
+  width: 75%;
+  height: auto;
+  text-align: center;
+  border-radius: 50px;
+  margin-right: auto;
+  float: right;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+#P
+{
+  color: #750627;
+  background-color: white;
+  width: 75%;
+  height: auto;
+  text-align: center;
+  border-radius: 50px;
+  margin-right: auto;
+  float: right;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+#ss
+{
+  color: white;
+  font-size: 35px;
+  text-align: center;
+}
+#col{
+  float: left;
+ width: 250px;
+ height: 250px;
+ margin-left: 100px;
+ margin-top: 10px;
+}
+#color1
+{
+  height: 40%;
+  width: 40%;
+  border-radius: 5px;
+}
+#bred
+{
+  height: auto;
+  width: auto;
+}
+#bro
+{
+  height: auto;
+  width: auto;
+}
+#cl
+{
+  margin-top: 3px;
+  margin-bottom: 3px;
+  color: black;
+}
+#col2
+{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10%;
+  padding-right: 5%;
+  width: 250px;
+  height: 600px;
+  float:left;
+}
+#color
+{
+  width: 90%;
+  height: 60%;
+}
